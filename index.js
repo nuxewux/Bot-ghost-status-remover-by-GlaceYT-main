@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💸 Versão FREE","🤖  Desenvolvido por Ghost Apps!"];
+const statusMessages = ["Listening to Deltarune"];
 
 
 let currentIndex = 0;
